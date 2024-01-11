@@ -11,7 +11,7 @@ function carddata() {
       location.href="otp.html"
     })
   } else {
-    alert("Not getting account details. Try this: CardNo.111111111111, CVV.123");
+    alert("Not getting account details. Try this: CardNo.123456789012, CVV.123");
   }
 }
 
