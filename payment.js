@@ -5,7 +5,7 @@ function carddata() {
   event.preventDefault();
   let cardNum = document.getElementById('cardNum').value;
   console.log(cardNum);
-  if ("123456789" == cardNum) {
+  if ("111111111111" == cardNum) {
     var btn = document.getElementById("btn");
     btn.addEventListener("click",()=>{
       location.href="otp.html"
